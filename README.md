@@ -400,6 +400,7 @@ Contributions are welcome!
 
 Please keep the project dependency-free (CDN-only) and single-file where possible — that portability is the whole point of CrimeScope.
 
+<<<<<<< HEAD
 By contributing, you agree your contributions will be licensed under the project's Boost Software License 1.0.
 
 ---
@@ -438,6 +439,8 @@ DEALINGS IN THE SOFTWARE.
 
 ---
 
+=======
+>>>>>>> b549f598e1981215c46a48aec1bebbb69bec29e1
 <div align="center">
 
 Made with 💜 and a lot of `<canvas>` elements.

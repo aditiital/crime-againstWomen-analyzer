@@ -400,28 +400,6 @@ Contributions are welcome!
 
 Please keep the project dependency-free (CDN-only) and single-file where possible — that portability is the whole point of CrimeScope.
 
----
-
-## 📄 License
-
-Released under the **MIT License** — free to use, modify, and distribute.
-
-```
-MIT License
-
-Copyright (c) 2025
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, subject to the above copyright notice and this
-permission notice being included in all copies or substantial portions
-of the Software.
-```
-
----
-
 <div align="center">
 
 Made with 💜 and a lot of `<canvas>` elements.

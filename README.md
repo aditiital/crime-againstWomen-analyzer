@@ -443,7 +443,8 @@ DEALINGS IN THE SOFTWARE.
 >>>>>>> b549f598e1981215c46a48aec1bebbb69bec29e1
 <div align="center">
 
-Made with 💜 and a lot of `<canvas>` elements.
+Made with 💜 and a lot of Real Experience 
+credit: @aditiital
 
 **⭐ If CrimeScope helped you explore your data, consider starring the repo!**
 
